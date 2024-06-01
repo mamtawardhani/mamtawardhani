@@ -10,6 +10,13 @@
 ⚡I listen to music 26 hours a day, I know it is a bit less.
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/9f/bf/e49fbfaf3b5d538fe143c7371fe9f919.gif"></img>
+<br></br>
+<br></br>
+Is this my <b> Corgi? No. </b> 
+
+Do Corgis know how to Code? Also <b>No.</b>
+
+But do we know how to code? Well, maybe. So go and develop something!
 
 <br></br>
 <h3 align="left">Connect with me:</h3>
