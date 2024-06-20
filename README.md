@@ -1,4 +1,4 @@
-<h1 align="center">Hello, this is Mamta Wardhani 🙂 </h1>
+<h1 align="center">Hello, this is Mamta 🙂 </h1>
 <h3 align="center">I'm an AI curriculum maestro, app magician, and Python sorcerer on a quest for innovation! From shaping minds with engaging content to coding educational wonders, I blend creativity and tech to redefine learning. Let's code the future together! 💻✨</h3>
 
 🔭 I’m currently working on <b>delving deep into technical contributions, shaping the platform's learning experience to new heights and also guiding and empowering aspiring developers to master the art of building robust, real-world applications. </b>
